@@ -1305,7 +1305,7 @@ img {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("/images/country-road.jpg");
+  background-image: url("/images/bruns.jpg");
   background-position: center;
   background-size: cover;
   filter: saturate(0.6);
